@@ -1,0 +1,10 @@
+• SSD
+1. keras-team/keras-applications 에서 제공되고 있는 모델
+https://github.com/rykov8/ssd_keras
+2. star가 무려 3,401개, fork가 1,636개인 모델
+https://github.com/balancap/SSD-Tensorflow
+• faster r cnn
+3. Faster R CNN keras 검색하면 가장 먼저 나오는 모델
+https://github.com/you359/Keras-FasterRCNN
+4. 스타가 무려 2,986개 Fork가 1,450개 그리고 깃레포이름에 newton이 들어가서 골라본 모델
+https://github.com/endernewton/tf-faster-rcnn (edited) 
